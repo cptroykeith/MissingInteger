@@ -1,4 +1,3 @@
-This is a demo task.
 
 Write a function:
 
